@@ -11,7 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   data_structure/sds
+   intro
+   1-var-exp
+   2-syntax
+   3-function
 
 Indices and tables
 ==================
